@@ -1,5 +1,5 @@
 # Youtube Comments Analysis using NLP
-## TFE UNIR Máster IA
+## Master's Thesis for the Master's in Artificial Intelligence (UNIR - Universidad Internacional de la Rioja)
 This repository contains the code for the Master's Thesis titled "Development of an NLP System for the Analysis and Classification of Youtube Comments". 
 
 All code archives are focused on a specific fashion and lifestyle channel.
