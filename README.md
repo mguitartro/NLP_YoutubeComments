@@ -7,7 +7,7 @@ All code archives are focused on a specific fashion and lifestyle channel.
 It includes:
 - Data extraction from the YouTube API (Video ID, Date, and Comment)
 - Application of EDA
-- Application of Sentiment Analysis (VADER)
+- Application of Sentiment Analysis (VADER) - Test_1
 - Application of Sentiment Analysis on the TOP 5 most commented videos (BERT)
 
 If you have any comments or contributions, I appreciate them in advance.
