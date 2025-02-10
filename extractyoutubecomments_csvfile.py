@@ -13,7 +13,7 @@ import json
 import csv
 
 username = "lovelypepa"
-apikey = "AIzaSyAZQTRMYxDQGIqU7Q5vnFezImkFiLe5FIU"
+apikey = ""
 
 # Obtener canales por usuario
 url_channels = "https://www.googleapis.com/youtube/v3/channels?key="+apikey+"&forUsername="+username
